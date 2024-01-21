@@ -3,7 +3,7 @@
   "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok",
   "images": {
     "avatar": "caycanhsadec24h.jpeg",
-    "banner": "banner.webp",
+    "banner": "banner_ccsd.jpg",
     "hover_change": true,
     "onHover_avatar": "animated_avatar.gif"
   },
@@ -32,9 +32,8 @@
     "display": true,
     "items": [
       { "label": "Facebook", "url": "https://www.facebook.com/caycanhsadec24h" },
-      { "label": "Instagram", "url": "https://www.instagram.com" },
       { "label": "Tiktok", "url": "https://www.tiktok.com/@caycanhsadec24h" },
-      { "label": "Youtube", "url": "https://www.youtube.com" }
+      { "label": "Youtube", "url": "https://www.youtube.com/@caycanhsadec3693" }
     ]
   },
   "designs": {
