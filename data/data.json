@@ -12,7 +12,7 @@
   "website": "caycanhsadec24h.com",
   "site_url": "https://www.tiktok.com/@caycanhsadec24h/live",
   "buttons": {
-    "display": true,
+    "display": false,
     "items": [{"label": "Hotline", "url": "tel:+84981675938" },{"label": "Đặt hàng", "url": "tel:+84869811191"}]
   },
   "footer": {
@@ -23,7 +23,7 @@
     "display": true,
     "items": [
       { "label": "Mail", "url": "mailto:yourmailaddress@mail.com" },
-      { "label": "Messenger", "url": "https://www.messenger.com" },
+      { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" },
       { "label": "Tiktok", "url": "https://www.tiktok.com/@caycanhsadec24h" },
       { "label": "Telegram", "url": "https://www.telegram.com" }
     ]
