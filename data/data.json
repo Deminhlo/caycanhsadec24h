@@ -2,7 +2,7 @@
   "name": "Cây cảnh sadec 24h",
   "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok",
   "images": {
-    "avatar": "avatar.png",
+    "avatar": "caycanhsadec24h.jpeg",
     "banner": "banner.webp",
     "hover_change": true,
     "onHover_avatar": "animated_avatar.gif"
@@ -13,7 +13,7 @@
   "site_url": "https://www.tiktok.com/@caycanhsadec24h/live",
   "buttons": {
     "display": true,
-    "items": [{"label": "Gọi", "url": "tel:+84981675938" },{"label": "Follow"},{"label": "Posts"}]
+    "items": [{"label": "Hotline", "url": "tel:+84981675938" },{"label": "Đặt hàng", "url": "tel:+84869811191"}]
   },
   "footer": {
     "display": true,
