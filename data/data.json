@@ -19,7 +19,7 @@
     "display": true,
     "text": "Kết nối ngay với cây cảnh sadec"
   },
-  "Contacts": {
+  "contacts": {
     "display": true,
     "items": [
       { "label": "Mail", "url": "mailto:yourmailaddress@mail.com" },
