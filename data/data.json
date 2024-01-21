@@ -22,9 +22,8 @@
   "contacts": {
     "display": true,
     "items": [
-      { "label": "Mail", "url": "mailto:yourmailaddress@mail.com" },
-      { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" },
       { "label": "Tiktok", "url": "https://www.tiktok.com/@caycanhsadec24h" },
+      { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" },
       { "label": "Telegram", "url": "https://www.telegram.com" }
     ]
   },
