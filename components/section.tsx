@@ -12,7 +12,7 @@ const Section: React.FC<SectionProps> = ({ name, items }) => {
       <div className="text-mono mx-auto mb-4 w-1/2 items-center text-center text-stone-400">
         <hr className="my-2 w-1" />
         <h3 className="mx-4">{name}</h3>
-        <hr className="my-2 w-1/2 border-t border-stone-300/75" />
+        <hr className="my-2 w-1 border-t border-stone-300/75" />
       </div>
       <div className="space-y-6">
         {items.map((item: object, index: number) => (
