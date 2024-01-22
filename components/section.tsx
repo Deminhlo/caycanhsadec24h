@@ -9,7 +9,7 @@ interface SectionProps {
 const Section: React.FC<SectionProps> = ({ name, items }) => {
   return (
     <section>
-      <div className="text-mono mx-auto mb-4 flex w-1/2 items-center text-center text-stone-400">
+      <div className="text-mono mx-auto mb-4 w-1/2 items-center text-center text-stone-400">
         <hr className="my-2 w-1/2 border-t border-stone-300/75" />
         <h3 className="mx-4">{name}</h3>
         <hr className="my-2 w-1/2 border-t border-stone-300/75" />
