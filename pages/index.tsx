@@ -2,7 +2,11 @@ import { UserInfo, Section } from 'components'
 import Profile from './../layouts/profile'
 import data from 'data/data.json'
 import QNA from 'components/qna'
-
+import { GoogleTagManager } from '@next/third-parties/google'
+ 
+export default function Page() {
+  return <GoogleTagManager gtmId="GTM-W2DQW3PJ" />
+}
 export default function Home() {
   const { contacts, socials, designs, gaming_profiles, wallets, qna } = data
   return (
