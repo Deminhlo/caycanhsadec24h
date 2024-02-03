@@ -1,6 +1,6 @@
 {
   "name": "Cây cảnh sadec 24h",
-  "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok",
+  "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok. Hãy bấm vào QR và quét mã zalo để chốt đơn",
   "images": {
     "avatar": "caycanhsadec24h.jpeg",
     "banner": "banner_ccsd.jpg",
@@ -22,7 +22,7 @@
   "contacts": {
     "display": true,
     "items": [
-      { "label": Zalo chốt đơn", "url": "https://i.imgur.com/A9SO2nZ.png" },
+      { "label": "Qr", "url": "https://i.imgur.com/A9SO2nZ.png" },
       { "label": "Tiktok", "url": "https://www.tiktok.com/@caycanhsadec24h" },
       { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" },
       { "label": "Telegram", "url": "https://www.telegram.com" }
