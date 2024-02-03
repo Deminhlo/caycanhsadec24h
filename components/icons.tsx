@@ -494,7 +494,7 @@ const Icon: React.FC<IconProps> = ({ label }) => {
       return <VenmeoIcon />
     case 'paypal':
       return <PaypalIcon />
-    case 'qr zalo':
+    case 'zalo':
       return <QRIcon />
     case 'copy':
       return <CopyIcon />
