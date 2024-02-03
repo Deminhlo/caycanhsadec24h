@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="description" content={bio} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content={background} />
-        <link rel="icon" href="/favicon.webp" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <main className={`${nunitoVariable.className}`}>
         <Component {...pageProps} />
