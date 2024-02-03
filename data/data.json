@@ -25,7 +25,7 @@
       { "label": "Zalo", "url": "https://i.imgur.com/A9SO2nZ.png" },
       { "label": "Tiktok", "url": "https://www.tiktok.com/@caycanhsadec24h" },
       { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" },
-      { "label": "Phone", "url": "tel+84981675938" },
+      { "label": "Phone", "url": "tel:+84981675938" },
       { "label": "Telegram", "url": "https://www.telegram.com" }
     ]
   },
