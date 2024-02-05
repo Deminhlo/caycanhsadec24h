@@ -1,6 +1,6 @@
 import { Html, Head, Main, NextScript } from 'next/document'
 import data from 'data/data.json'
-import { Analytics } from '@vercel/analytics/react';
+import GoogleTagManager from '@magicul/next-google-tag-manager';
 export default function Document() {
   return (
     <Html lang="en" style={{ backgroundColor: data.background }} className="scroll-smooth">
@@ -8,7 +8,7 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-        <Analytics />
+        <GoogleTagManager id="GTM-W2DQW3PJ" />
       </body>
     </Html>
   )
