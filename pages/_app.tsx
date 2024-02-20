@@ -15,6 +15,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content={background} />
         <link rel="icon" href="/favicon.png" />
+        <script defer src="https://analytics.us.umami.is/script.js" data-website-id="635cbaa8-707e-4888-92ac-89c662c93bef"></script>
       </Head>
       <main className={`${nunitoVariable.className}`}>
         <Component {...pageProps} />
