@@ -24,13 +24,13 @@
     "items": [
       { "label": "Phone", "url": "tel:+84828299868" },
       { "label": "Zalo", "url": "https://zalo.me/0828299868" },
-      { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" },
-      { "label": "Telegram", "url": "https://www.telegram.com" }
+      { "label": "Messenger", "url": "https://m.me/caycanhsadec24h" }
     ]
   },
   "socials": {
     "display": true,
     "items": [
+      { "label": "Facebook", "url": "https://www.facebook.com/casafarmshop" },
       { "label": "Facebook", "url": "https://www.facebook.com/caycanhsadec24h" },
       { "label": "Tiktok", "url": "https://www.tiktok.com/@caycanhsadec24h" },
       { "label": "Youtube", "url": "https://www.youtube.com/@caycanhsadec3693" }
