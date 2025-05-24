@@ -1,6 +1,6 @@
 {
   "name": "CASA FARM",
-  "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok. Quý khách hãng hãy quét mã zalo để liên hệ chốt đơn",
+  "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok, facebook. Quý khách hãng hãy quét mã zalo để liên hệ chốt đơn",
   "images": {
     "avatar": "qr-zalo.png",
     "banner": "banner_ccsd.jpg",
@@ -10,14 +10,14 @@
   "background": "#f5f5f5",
   "location": "Thành Phố Sa đéc, Đồng Tháp, VN",
   "website": "casafarm.vn",
-  "site_url": "https://www.tiktok.com/@caycanhsadec24h/live",
+  "site_url": "https://www.facebook.com/casafarmshop/live_videos",
   "buttons": {
     "display": true,
     "items": [{"label": "Hotline: 0869569494"}]
   },
   "footer": {
     "display": true,
-    "text": "Kết nối ngay với cây cảnh sadec"
+    "text": "Kết nối ngay với CASA FARM "
   },
   "contacts": {
     "display": true,
