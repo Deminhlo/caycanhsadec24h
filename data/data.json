@@ -1,6 +1,8 @@
 {
   "name": "CASA FARM",
-  "bio": "Siêu thị hoa giấy, cây cảnh bonsai, giao hàng toàn quốc giá tốt, uy tín. Xem live ngắm hoa giấy mỗi ngày lúc 19h trên tiktok, facebook. Quý khách hãng hãy quét mã zalo để liên hệ chốt đơn",
+  "bio": "CasaFarm - siêu thị hoa giấy chuyên về các dòng hoa giấy từ cây giống => đến cây trưởng thành; từ cây phôi => đến cây ghép. 
+Nhận đặt ghép cây thành phẩm.
+Cam kết từ Casa Farm: bao sống, bao giao đúng hàng, bao hỗ trợ chăm sóc 1-1 trọn đời. Đội ngũ luôn nổ lực để mang lại sản phẩm chất lượng đi kèm với hỗ trợ dịch vụ tối ưu nhất",
   "images": {
     "avatar": "qr-zalo.png",
     "banner": "banner_ccsd.jpg",
@@ -8,7 +10,7 @@
     "onHover_avatar": "animated_avatar.gif"
   },
   "background": "#f5f5f5",
-  "location": "Thành Phố Sa đéc, Đồng Tháp, VN",
+  "location": "169 ĐT 848, Tân Khánh Đông, Sa Đéc - Đồng Tháp, VN",
   "website": "casafarm.vn",
   "site_url": "https://www.facebook.com/casafarmshop/live_videos",
   "buttons": {
